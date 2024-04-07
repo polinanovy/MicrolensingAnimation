@@ -1,0 +1,13 @@
+{
+    "point source":{
+        "Ds": 10.0,
+        "flux": 1.0,
+        "velocity": 200.0
+    },
+    "point lens":{
+        "mass": 1.0,
+        "Dl": 5.0,
+        "impact parameter": 0.2,
+        "t0": 0.0
+    }
+}
