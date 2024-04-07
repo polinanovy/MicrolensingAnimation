@@ -7,14 +7,14 @@ The program implements [Microlensing Event](https://science.nasa.gov/mission/rom
 Microlensing - the lensing effects of small-sized lenses in the universe. Such effects are mostly detectable within our galaxy, so we will focus on microlenses in the Milky Way.
 
 Parameters: 
-- **$G$** - the gravitational constant
+- **$G$** --- the gravitational constant
 - **$c$** - the speed of light
 - **$D_L$** - angular diameter distance to the lens
 - **$D_S$** - angular diameter distance to the source
 - **$D_{LS}$** - angular diameter distance between the lens and the source ($= D_L - D_S$ in the Milky Way)
 - **$\beta$** - intrinsic position of the source
 - **$\theta$** - observed image position of the source
-- **$\u_0$** - impact parameter (angular distance between the lens and the source, normalized by the Einstein radius)
+- **$u_0$** - impact parameter (angular distance between the lens and the source, normalized by the Einstein radius)
 - **$M_L$** - mass of the lens
 - **$t_0$** - time of magnification peak
 
